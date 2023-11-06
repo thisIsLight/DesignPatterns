@@ -1,0 +1,15 @@
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Visitor Pattern\VisitorPattern\bin\Debug\net6.0\VisitorPattern.exe
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Visitor Pattern\VisitorPattern\bin\Debug\net6.0\VisitorPattern.deps.json
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Visitor Pattern\VisitorPattern\bin\Debug\net6.0\VisitorPattern.runtimeconfig.json
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Visitor Pattern\VisitorPattern\bin\Debug\net6.0\VisitorPattern.dll
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Visitor Pattern\VisitorPattern\bin\Debug\net6.0\VisitorPattern.pdb
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Visitor Pattern\VisitorPattern\obj\Debug\net6.0\VisitorPattern.csproj.AssemblyReference.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Visitor Pattern\VisitorPattern\obj\Debug\net6.0\VisitorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Visitor Pattern\VisitorPattern\obj\Debug\net6.0\VisitorPattern.AssemblyInfoInputs.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Visitor Pattern\VisitorPattern\obj\Debug\net6.0\VisitorPattern.AssemblyInfo.cs
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Visitor Pattern\VisitorPattern\obj\Debug\net6.0\VisitorPattern.csproj.CoreCompileInputs.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Visitor Pattern\VisitorPattern\obj\Debug\net6.0\VisitorPattern.dll
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Visitor Pattern\VisitorPattern\obj\Debug\net6.0\refint\VisitorPattern.dll
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Visitor Pattern\VisitorPattern\obj\Debug\net6.0\VisitorPattern.pdb
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Visitor Pattern\VisitorPattern\obj\Debug\net6.0\VisitorPattern.genruntimeconfig.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Visitor Pattern\VisitorPattern\obj\Debug\net6.0\ref\VisitorPattern.dll

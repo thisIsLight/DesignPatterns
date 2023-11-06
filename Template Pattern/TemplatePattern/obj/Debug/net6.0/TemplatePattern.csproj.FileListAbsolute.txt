@@ -1,0 +1,15 @@
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Template Pattern\TemplatePattern\bin\Debug\net6.0\TemplatePattern.exe
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Template Pattern\TemplatePattern\bin\Debug\net6.0\TemplatePattern.deps.json
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Template Pattern\TemplatePattern\bin\Debug\net6.0\TemplatePattern.runtimeconfig.json
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Template Pattern\TemplatePattern\bin\Debug\net6.0\TemplatePattern.dll
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Template Pattern\TemplatePattern\bin\Debug\net6.0\TemplatePattern.pdb
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Template Pattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.csproj.AssemblyReference.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Template Pattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Template Pattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.AssemblyInfoInputs.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Template Pattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.AssemblyInfo.cs
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Template Pattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Template Pattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.dll
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Template Pattern\TemplatePattern\obj\Debug\net6.0\refint\TemplatePattern.dll
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Template Pattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.pdb
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Template Pattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.genruntimeconfig.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Template Pattern\TemplatePattern\obj\Debug\net6.0\ref\TemplatePattern.dll

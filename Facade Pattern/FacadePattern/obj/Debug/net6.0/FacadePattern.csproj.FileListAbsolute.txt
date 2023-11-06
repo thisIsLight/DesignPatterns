@@ -1,0 +1,15 @@
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Facade Pattern\FacadePattern\bin\Debug\net6.0\FacadePattern.exe
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Facade Pattern\FacadePattern\bin\Debug\net6.0\FacadePattern.deps.json
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Facade Pattern\FacadePattern\bin\Debug\net6.0\FacadePattern.runtimeconfig.json
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Facade Pattern\FacadePattern\bin\Debug\net6.0\FacadePattern.dll
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Facade Pattern\FacadePattern\bin\Debug\net6.0\FacadePattern.pdb
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Facade Pattern\FacadePattern\obj\Debug\net6.0\FacadePattern.csproj.AssemblyReference.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Facade Pattern\FacadePattern\obj\Debug\net6.0\FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Facade Pattern\FacadePattern\obj\Debug\net6.0\FacadePattern.AssemblyInfoInputs.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Facade Pattern\FacadePattern\obj\Debug\net6.0\FacadePattern.AssemblyInfo.cs
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Facade Pattern\FacadePattern\obj\Debug\net6.0\FacadePattern.csproj.CoreCompileInputs.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Facade Pattern\FacadePattern\obj\Debug\net6.0\FacadePattern.dll
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Facade Pattern\FacadePattern\obj\Debug\net6.0\refint\FacadePattern.dll
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Facade Pattern\FacadePattern\obj\Debug\net6.0\FacadePattern.pdb
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Facade Pattern\FacadePattern\obj\Debug\net6.0\FacadePattern.genruntimeconfig.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\Facade Pattern\FacadePattern\obj\Debug\net6.0\ref\FacadePattern.dll
